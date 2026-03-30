@@ -112,10 +112,76 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+Entry 1 - March 25, 2026, 4:00 PM(
 
-**Most challenging part**: 
+What I did: Set up GitHub repository and ran the starter code
+Details:
 
-**Most interesting learning**: 
+Forked repository
+Added my student ID
+Ran the simulation successfully
+
+Challenges: Understanding project structure
+Solution: Reviewed README and code comments
+Time spent: 1 hour
+
+Entry 2 - March 26, 2026, 6:00 PM
+
+What I did: Implemented Feature 1 (Priority)
+Details:
+
+Added priority field
+Displayed it in output
+
+Challenges: Integrating without breaking code
+Solution: Tested after each step
+Time spent: 1.5 hours
+
+Entry 3 - March 27, 2026, 5:30 PM
+
+What I did: Implemented Feature 2 (Context Switch Counter)
+Details:
+
+Added counter variable
+Incremented inside scheduler loop
+
+Challenges: Finding correct place to increment
+Solution: Analyzed scheduler loop carefully
+Time spent: 1 hour
+
+Entry 4 - March 28, 2026, 7:00 PM
+
+What I did: Implemented Feature 3 (Waiting Time)
+Details:
+
+Added tracking variables
+Calculated waiting time
+
+Challenges: Understanding timing logic
+Solution: Used System.currentTimeMillis()
+Time spent: 2 hours
+
+Entry 5 - March 29, 2026, 8:00 PM
+
+What I did: Testing and documentation
+Details:
+
+Verified output correctness
+Wrote reflection and answers
+
+Challenges: Matching output with theory
+Solution: Compared with textbook concepts
+Time spent: 1.5 hours
+
+Summary
+
+Total time spent: 7 hours
+Most challenging part: Waiting time calculation
+Most interesting learning: Thread scheduling
+What I would do differently: Start earlier
+
+
+
+
 
 **What I would do differently next time**: 
