@@ -452,9 +452,9 @@ Submit a **text file** named: `YourName_StudentID_Assignment1.txt`
 Student Name: [fayzah mohemmed]
 Student ID: [445052019]
 GitHub Username: [fafay11]
-Repository Link: https://github.com/[your-username]/OS-Assignment1-[YourName]
+Repository Link: https://github.com/fafay11/OS-Assignment1-Fayzah-Mohammed.git]
 Video Link: [Google Drive link - make sure it's accessible to anyone with the link]
-Date Submitted: [Submission Date]
+Date Submitted: [31mars]
 ```
 
 **Example:**
